@@ -77,5 +77,8 @@ body, html {
     .pimg1, .pimg2, .pimg3 {
         background-attachment: scroll;
     }
-}
 
+    .ptext .border {
+        font-size: 20px;
+    }
+}
